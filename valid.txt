@@ -1,0 +1,10 @@
+mariadb-embedded-devel -- subpackage of mariadb-devel
+mysql-connector-odbc -- a connector for mysql-devel 
+grass	-- contacted and agreed to pull request
+gnokii	-- contacted and agreed to pull request
+jabberd	-- contacted and agreed to pull request
+kdb	-- contacted and agreed to pull request
+perl-DBD-MySQL	-- a connector for mysql-devel
+akonadi-server	-- a package directly working with mariadb-server
+kf5-akonadi-server	-- a package directly working with mariadb-server
+perl-Test-mysqld	-- a package for testing mariadb-server
